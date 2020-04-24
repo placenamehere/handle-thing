@@ -1,5 +1,7 @@
 # Handle Thing
 
+test edit
+
 [![Build Status](https://travis-ci.org/spdy-http2/handle-thing.svg?branch=master)](http://travis-ci.org/spdy-http2/handle-thing)
 [![NPM version](https://badge.fury.io/js/handle-thing.svg)](http://badge.fury.io/js/handle-thing)
 [![dependencies Status](https://david-dm.org/spdy-http2/handle-thing/status.svg?style=flat-square)](https://david-dm.org/spdy-http2/handle-thing)
